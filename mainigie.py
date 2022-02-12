@@ -41,3 +41,6 @@ print(vards, uzvards, attalums, irBrilles)
 print("Vārds:", vards, "Uzvārds:", uzvards, "Attālums līdz mājai:", attalums, "Valkā brilles", irBrilles)
 print(f"Vārds: {vards}, Uzvārds: {uzvards}, Attālums: {attalums}")
 print("Vārds: " + vards + " Attālums: " + str(attalums))
+
+
+help("keywords")
