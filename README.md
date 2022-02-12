@@ -1,1 +1,1 @@
-# nodarbibas
+# Nodarbībās apskatītais kods
