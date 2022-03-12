@@ -9,10 +9,11 @@ def main():
     sk2 = helper.ievadiSkaitli()
 
     print("Ievadīto skaitļu summa ir", sk1 + sk2)
+    helper.pievienotFailam("summa.dat", sk1 + sk2)
 
-    print(__name__)
 
 
+#print(__name__)
 if __name__ == '__main__':
     main()
 else:
