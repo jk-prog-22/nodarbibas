@@ -21,6 +21,7 @@ Aprēķināt no visiem ievadītajiem pāra skaitļiem vidējo aritmētisko. (0- 
 
 ## 6. uzdevums
 Izveido programmu, kas izdrukā zemāk esošo piemēru. Jāizmanto cikls-ciklā.
+```bash
 1
 22
 333
@@ -30,9 +31,10 @@ Izveido programmu, kas izdrukā zemāk esošo piemēru. Jāizmanto cikls-ciklā.
 7777777
 88888888
 999999999
-
+```
 ## 7. uzdevums
 Izveido programmu, kas izdrukā zemāk esošo piemēru. Jāizmanto cikls-ciklā.
+```bash
 * 
 * * 
 * * * 
@@ -42,6 +44,7 @@ Izveido programmu, kas izdrukā zemāk esošo piemēru. Jāizmanto cikls-ciklā.
 * * * 
 * * 
 *
+```
 
 ## 8. uzdevums
 Izveido programmu, kur lietotājam ir jāuzmin datora iedomātais skaitlis (no 1 līdz 20). Lietotājs min tik ilgi, kamēr ir atminējis skaitli, beigās parāda tekstu "Apsveicam ar uzvaru!" un rezultātu (minējuma skaitu).
