@@ -5,7 +5,7 @@ valstis = ["Latvija", "Lietuva", "Igaunija"]
 for valsts in valstis:
     print(valsts, end=" ")
 
-print() # tukša rinda starp uzdevumiem
+print() # tukša rinda starp variantiem
 
 # 2. variants
 print(', '.join(valstis))
