@@ -2,7 +2,7 @@ from autoviz.AutoViz_Class import AutoViz_Class
 
 AV = AutoViz_Class()
 
-filename = "titanic_2.xls"
+filename = "ss_auto.csv"
 sep = ","
 dft = AV.AutoViz(
     filename,
